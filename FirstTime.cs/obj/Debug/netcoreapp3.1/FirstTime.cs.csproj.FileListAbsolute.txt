@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.exe
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.deps.json
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.runtimeconfig.json
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.dll
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\bin\Debug\netcoreapp3.1\FirstTime.cs.pdb
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.dll
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.pdb
+C:\Users\Asus\source\repos\FirstTime.cs\FirstTime.cs\obj\Debug\netcoreapp3.1\FirstTime.cs.genruntimeconfig.cache
